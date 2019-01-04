@@ -1,0 +1,34 @@
+{% load i18n %}
+
+    <!-- BEGIN header-->
+    <div id="home-header">
+      <div class="wrapper">
+
+        <!-- BEGIN header title-->
+        <div class="home-header-title">
+          <h1>Product Documentation</h1>
+          <p class="tagline">Welcome to Acquia's expansive collection of products,<br>
+           documentations, code snippets and tutorials</p>
+          <!-- <p class="tagline"> -->
+          <!-- {% trans "Create, host, and browse documentation." %} -->
+          <!-- </p> -->
+          <!-- Search -->
+  <section>
+    {% include "core/widesearchbar.html" %}
+  </section>
+        </div>
+        <!-- END header title -->
+
+        <!-- BEGIN header links-->
+        <div class="home-header-links">
+          {% comment %}Translators: Note, the full sentence goes 'Sign up' 'or' 'Log in'. But unfortunately the three bits have to be separate.{% endcomment %}
+          <a class="reg" href="{% url "account_signup" %}">{% trans "Sign up" %}</a>
+          <div class="login-box">
+            <p>{% trans "or" %} <a class="login" href="{% url "account_login" %}">{% trans "Log in" %}</a></p>
+          </div>
+        </div>
+        <!-- END header links -->
+
+      </div>
+    </div>
+    <!-- END header-->

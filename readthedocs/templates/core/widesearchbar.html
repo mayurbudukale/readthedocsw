@@ -1,0 +1,19 @@
+{% load i18n %}
+
+        <!-- BEGIN wide search bar -->
+
+        <div class="wide-search-bar">
+          <h3>{% trans "Looking for Something?" %}</h3>
+          <div class="wide-search-bar-wrapper clearfix">
+            <form action="{% url "search" %}" method="GET">
+              <div class="text-input-wrapper">
+                <input type="text" name="q" value="{{ term }}" id="id_site_search" placeholder="{% trans 'Search Our Documentation' %}">
+              </div>
+              <div class="submit-input-wrapper">
+                {% comment %} Translators: This is about starting a search {% endcomment %}
+                <input type="submit" value="{% trans "SEARCH" %}">
+              </div>
+            </form>
+
+          </div>
+        </div>

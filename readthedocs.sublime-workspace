@@ -1,0 +1,348 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"passw",
+				"password"
+			],
+			[
+				"for",
+				"form-group"
+			],
+			[
+				"Auth",
+				"Auth::check\tDetermine if the current user is authenticated."
+			],
+			[
+				"ps",
+				"password"
+			],
+			[
+				"redirect",
+				"http_redirect"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"em",
+				"email"
+			],
+			[
+				"p",
+				"Password"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"pa",
+				"placeholder\tAttr"
+			],
+			[
+				"nu",
+				"number2"
+			],
+			[
+				"n",
+				"number2"
+			],
+			[
+				"W",
+				"Weight"
+			],
+			[
+				"s",
+				"students"
+			],
+			[
+				"e",
+				"echo\techo \"…\""
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"Equal",
+				"Equal"
+			],
+			[
+				"Numbe",
+				"number2"
+			]
+		]
+	},
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 410.0
+	},
+	"console":
+	{
+		"height": 150.0,
+		"history":
+		[
+			"php artisan tinker",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/xampp/htdocs/rtd/readthedocs.org/media/css/core.css",
+		"/C/xampp/htdocs/rtd/readthedocs.org/readthedocs/templates/homepage.html",
+		"/C/Users/Mayur-1D/Desktop/lsconnexion/Lsconnexion.html",
+		"/C/xampp/htdocs/newapp/database/migrations/2018_01_29_172618_create_posts_table.php",
+		"/C/xampp/htdocs/newapp/resources/views/posts/post.blade.php",
+		"/C/xampp/htdocs/newapp/resources/views/posts/index.blade.php",
+		"/C/xampp/htdocs/newapp/app/Http/Controllers/SessionsController.php",
+		"/C/xampp/htdocs/newapp/app/Post.php",
+		"/C/xampp/htdocs/newapp/app/User.php",
+		"/C/xampp/htdocs/newapp/resources/views/posts/create.blade.php",
+		"/C/xampp/htdocs/newapp/app/Comments.php",
+		"/C/xampp/htdocs/newapp/app/Http/Controllers/RegistrationController.php",
+		"/C/xampp/htdocs/newapp/resources/views/sessions/create.blade.php",
+		"/C/xampp/htdocs/newapp/resources/views/layouts/nav.blade.php",
+		"/C/xampp/htdocs/newapp/app/Http/Controllers/PostsController.php",
+		"/C/xampp/htdocs/newapp/routes/web.php",
+		"/C/Users/Mayur-1D/AppData/Roaming/Sublime Text 3/Packages/User/Laravel 5 Artisan.sublime-settings",
+		"/C/Users/Mayur-1D/AppData/Roaming/Sublime Text 3/Packages/User/Laravel 5 Artisan.sublime-commands",
+		"/C/Users/Mayur-1D/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Mayur-1D/Desktop/HTML Invite/testing.html",
+		"/C/Users/Mayur-1D/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Mayur-1D/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/xampp/htdocs/acme/1.html",
+		"/C/xampp/apache/conf/original/httpd.conf",
+		"/E/Development/learning git/index.txt",
+		"/C/Users/Mayur-1D/AppData/Local/Temp/fz3temp-2/wp-config.php",
+		"/C/Users/Mayur-1D/Desktop/test_dev/file.txt",
+		"/C/wamp/www/learn/8.php",
+		"/C/wamp/www/learn/7.php",
+		"/C/wamp/www/magento/phpinfo.php",
+		"/C/xampp/htdocs/index.php",
+		"/C/xampp/htdocs/finance/index.php",
+		"/C/xampp/htdocs/finance/javascript/index.html",
+		"/E/Development/vuetest/index.html",
+		"/C/Users/Mayur-1D/Desktop/testing/welcome_get.php",
+		"/C/Users/Mayur-1D/Desktop/testing/index.php",
+		"/C/Users/Mayur-1D/Desktop/testing/form.html",
+		"/C/Users/Mayur-1D/Desktop/testing/index.html",
+		"/C/Program Files/Sublime Text 3/sublime_text.exe",
+		"/C/Users/Mayur-1D/Desktop/testing/welcome.php",
+		"/C/wamp/www/learn/9.php",
+		"/C/wamp/www/learn/6.php",
+		"/C/wamp/www/learn/5.php",
+		"/C/wamp/www/learn/4.php",
+		"/C/wamp/www/learn/3.php",
+		"/C/wamp/www/learn/2.php",
+		"/C/wamp/www/learn/1.php",
+		"/C/wamp/www/phpwhois_omne/searchandreplacedb.php",
+		"/C/wamp/www/phpwhois_omne/example.php",
+		"/C/wamp/www/phpwhois_omne/whois.main.php"
+	],
+	"find":
+	{
+		"height": 54.0
+	},
+	"find_in_files":
+	{
+		"height": 161.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 46.0
+	},
+	"input":
+	{
+		"height": 71.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"replace":
+	{
+		"height": 104.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"core",
+				"media\\css\\core.css"
+			],
+			[
+				"core.css",
+				"media\\css\\core.css"
+			],
+			[
+				"home",
+				"readthedocs\\templates\\homepage.html"
+			],
+			[
+				"post.",
+				"app\\Post.php"
+			],
+			[
+				"posts/",
+				"resources\\views\\posts\\post.blade.php"
+			],
+			[
+				"posts/inde",
+				"resources\\views\\posts\\index.blade.php"
+			],
+			[
+				"postscon",
+				"app\\Http\\Controllers\\PostsController.php"
+			],
+			[
+				"postcontro",
+				"app\\Http\\Controllers\\PostsController.php"
+			],
+			[
+				"nav.b",
+				"resources\\views\\layouts\\nav.blade.php"
+			],
+			[
+				"sessionsc",
+				"app\\Http\\Controllers\\SessionsController.php"
+			],
+			[
+				"create.b",
+				"resources\\views\\sessions\\create.blade.php"
+			],
+			[
+				"registration",
+				"app\\Http\\Controllers\\RegistrationController.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 255.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
